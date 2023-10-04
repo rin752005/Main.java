@@ -1,1 +1,2 @@
-hello9 
+// the hello world program
+console.log('Hello World');
